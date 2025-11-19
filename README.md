@@ -1,16 +1,16 @@
-# Josh's First Portfolio Website
+## Josh's First Portfolio Website
 
-TODO Put a screenshot of the website here.
+![website screenshot](assets/images/website-screenshot.png)
 
 This repo contains an HTML, CSS, and JavaScript project for my first portfolio website.
 
 Feel free to fork my repo for inspiration!
 
-# Technologies Used
+## Technologies Used
 
 Plain old JavaScript, HTML, and CSS
 
-# How to Run Locally
+## How to Run Locally
 
 Personally, I use the [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) plugin in Visual Studio Code to run my website locally.
 
